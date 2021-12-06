@@ -5,6 +5,8 @@
 
 #include <QMainWindow>
 
+#define SIDE 3
+
 QT_BEGIN_NAMESPACE
 namespace Ui {
 class TicTacToe;
